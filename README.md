@@ -14,13 +14,14 @@ All tasks are save in a todo.pckl file.
 
 You might need to install the package/s:  
 
-* pickle  
-* argparse   
+* pickle
+* argparse 
 
 Add in your .bashrc file  
 
-* for python2.7 e.g. alias todo='python2.7 /[path_to_todo.py]/PyTODO.py'  
-* for python3 e.g. alias todo='python3 /[path_to_todo.py]/PyTODO_py3.py' 
+* for python2.7 e.g. alias todo='python2.7 /[path_to_todo.py]/PyTODO.py'
+* for python3 e.g. alias todo='python3 /[path_to_todo.py]/PyTODO_py3.py'  
+
 and do  
 
 * source .bashrc.  
