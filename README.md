@@ -63,6 +63,8 @@ Loading: test.pckl
 Project: project1  
 2 (medium) Sunday 09. December 2018 : do 2nd task  
 
+**Further examples**
+
 Some examples are provided in the examples directory  
 An alternative use of this package can be monitoring of cluster/queuing jobs.  
 For example, you can use one project for one cluster you need to monitor your calculations (see e.g. examples/jobs.pckl).   
