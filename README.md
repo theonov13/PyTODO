@@ -2,7 +2,7 @@
 PyTODO.py - a pythonian way to handle tasks from the command line  
 author: Sebastian Schwalbe  
 date:   12.03.2019  
-language: python2.7 
+language: python2.7  
 os: tested and generated on linux (ubuntu, debian, cent-os etc.)  
 
 This is a very small sized implementation of a pythonian todo task manager.  
