@@ -8,7 +8,7 @@ The package uses the os, pickle, datetime and argparse python packages.
 It is designed for the command line usage.  
 All tasks are save in a todo.pckl file.  
 
-Installation  
+**Installation**  
 
 You might need to install the package/s:  
 
@@ -25,7 +25,7 @@ source .bashrc.
 
 After that the todo.py is available as todo command in your bash.  
 
-Example usage in command line (bash):  
+**Example usage in command line (bash)**
 
 user@pc:~ todo -t test.pckl -p project1  
 Creating: test.pckl  
