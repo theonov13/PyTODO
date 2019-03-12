@@ -62,7 +62,6 @@ user@pc:~ todo -t test.pckl -la
 Loading: test.pckl  
 Project: project1  
 2 (medium) Sunday 09. December 2018 : do 2nd task  
-user@pc:~  
 
 Some examples are provided in the examples directory  
 An alternative use of this package can be monitoring of cluster/queuing jobs.  
