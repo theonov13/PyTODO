@@ -17,7 +17,7 @@ You might need to install the package/s:
 
 Add in your .bashrc file  
 
-* alias todo='python /[path_to_todo.py/PyTODO.py'  
+* alias todo='python /[path_to_todo.py]/PyTODO.py'  
 
 and do  
 
