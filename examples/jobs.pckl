@@ -1,0 +1,104 @@
+(dp0
+S'cluster1'
+p1
+(dp2
+I1
+(lp3
+S'Sunday 09. December 2018'
+p4
+aS'magnetic molecule calculation'
+p5
+aS'medium'
+p6
+asI2
+(lp7
+S'Sunday 09. December 2018'
+p8
+aS'check new functional'
+p9
+aS'medium'
+p10
+asI3
+(lp11
+S'Sunday 09. December 2018'
+p12
+aS'student1 molecule1'
+p13
+aS'medium'
+p14
+asI4
+(lp15
+S'Sunday 09. December 2018'
+p16
+aS'student1 molecule2'
+p17
+aS'medium'
+p18
+asI5
+(lp19
+S'Sunday 09. December 2018'
+p20
+aS'supervisor: new code version'
+p21
+aS'medium'
+p22
+asI6
+(lp23
+S'Sunday 09. December 2018'
+p24
+aS'fractional occupation test'
+p25
+aS'medium'
+p26
+asI7
+(lp27
+S'Sunday 09. December 2018'
+p28
+aS'student1 molecule3 restart'
+p29
+aS'medium'
+p30
+assS'cluster2'
+p31
+(dp32
+I1
+(lp33
+S'Sunday 09. December 2018'
+p34
+aS'big test system'
+p35
+aS'medium'
+p36
+asI2
+(lp37
+S'Sunday 09. December 2018'
+p38
+aS'molecule optimization'
+p39
+aS'medium'
+p40
+asI3
+(lp41
+S'Sunday 09. December 2018'
+p42
+aS'test code'
+p43
+aS'medium'
+p44
+asI4
+(lp45
+S'Sunday 09. December 2018'
+p46
+aS'another code test'
+p47
+aS'medium'
+p48
+asI5
+(lp49
+S'Sunday 09. December 2018'
+p50
+aS'check atoms and molecules'
+p51
+aS'medium'
+p52
+ass.
