@@ -1,0 +1,51 @@
+(dp0
+S'MA:student1'
+p1
+(dp2
+I1
+(lp3
+S'Sunday 09. December 2018'
+p4
+aS'optimize molecule @cluster1'
+p5
+aS'high'
+p6
+assS'BA:student2'
+p7
+(dp8
+I1
+(lp9
+S'Sunday 09. December 2018'
+p10
+aS'optimize molecule'
+p11
+aS'medium'
+p12
+assS'PhD'
+p13
+(dp14
+I1
+(lp15
+S'Sunday 09. December 2018'
+p16
+aS'Finish calculations'
+p17
+aS'high'
+p18
+asI2
+(lp19
+S'Sunday 09. December 2018'
+p20
+aS'Write chapters'
+p21
+aS'high'
+p22
+asI3
+(lp23
+S'Sunday 09. December 2018'
+p24
+aS'Check bibtex keys'
+p25
+aS'medium'
+p26
+ass.
