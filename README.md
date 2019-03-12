@@ -69,3 +69,7 @@ Some examples are provided in the examples directory
 An alternative use of this package can be monitoring of cluster/queuing jobs.  
 For example, you can use one project for one cluster you need to monitor your calculations (see e.g. examples/jobs.pckl).   
 
+You can load the examples like  
+* user@pc:~ todo -t todo.pckl -la
+* user@pc:~ todo -t todo2.pckl -la
+* user@pc:~ todo -t jobs.pckl -la
