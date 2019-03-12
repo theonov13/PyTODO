@@ -2,7 +2,7 @@
 PyTODO.py - a pythonian way to handle tasks from the command line  
 author: Sebastian Schwalbe  
 date:   12.03.2019  
-language: python2.7  
+language: python2.7 (see src/PyTODO.py) and python3 (see src/PyTODO_py3.py)
 os: tested and generated on linux (ubuntu, debian, cent-os etc.)  
 
 This is a very small sized implementation of a pythonian todo task manager.  
@@ -19,8 +19,8 @@ You might need to install the package/s:
 
 Add in your .bashrc file  
 
-* alias todo='python /[path_to_todo.py]/PyTODO.py'  
-
+* for python2.7 e.g. alias todo='python2.7 /[path_to_todo.py]/PyTODO.py'  
+* for python3 e.g. alias todo='python3 /[path_to_todo.py]/PyTODO_py3.py' 
 and do  
 
 * source .bashrc.  
