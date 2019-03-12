@@ -12,16 +12,16 @@ All tasks are save in a todo.pckl file.
 
 You might need to install the package/s:  
 
-pickle  
-argparse   
+* pickle  
+* argparse   
 
 Add in your .bashrc file  
 
-alias todo='python /[path_to_todo.py/PyTODO.py'  
+* alias todo='python /[path_to_todo.py/PyTODO.py'  
 
 and do  
 
-source .bashrc.  
+* source .bashrc.  
 
 After that the todo.py is available as todo command in your bash.  
 
